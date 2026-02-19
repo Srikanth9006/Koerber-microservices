@@ -1,0 +1,3 @@
+com\koerber\inventory\controller\InventoryControllerIntegrationTest.class
+com\koerber\inventory\factory\DefaultInventoryHandlerTest.class
+com\koerber\inventory\service\InventoryServiceTest.class

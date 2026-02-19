@@ -1,0 +1,17 @@
+C:\Users\PG221QT\Downloads\microservices\koerber-microservices\inventory-service\src\main\java\com\koerber\inventory\dto\BatchUpdateDto.java
+C:\Users\PG221QT\Downloads\microservices\koerber-microservices\inventory-service\src\main\java\com\koerber\inventory\service\InventoryService.java
+C:\Users\PG221QT\Downloads\microservices\koerber-microservices\inventory-service\src\main\java\com\koerber\inventory\exception\GlobalExceptionHandler.java
+C:\Users\PG221QT\Downloads\microservices\koerber-microservices\inventory-service\src\main\java\com\koerber\inventory\dto\BatchDto.java
+C:\Users\PG221QT\Downloads\microservices\koerber-microservices\inventory-service\src\main\java\com\koerber\inventory\factory\DefaultInventoryHandler.java
+C:\Users\PG221QT\Downloads\microservices\koerber-microservices\inventory-service\src\main\java\com\koerber\inventory\exception\ProductNotFoundException.java
+C:\Users\PG221QT\Downloads\microservices\koerber-microservices\inventory-service\src\main\java\com\koerber\inventory\factory\InventoryHandlerFactory.java
+C:\Users\PG221QT\Downloads\microservices\koerber-microservices\inventory-service\src\main\java\com\koerber\inventory\repository\InventoryBatchRepository.java
+C:\Users\PG221QT\Downloads\microservices\koerber-microservices\inventory-service\src\main\java\com\koerber\inventory\dto\InventoryResponse.java
+C:\Users\PG221QT\Downloads\microservices\koerber-microservices\inventory-service\src\main\java\com\koerber\inventory\service\impl\DefaultInventoryService.java
+C:\Users\PG221QT\Downloads\microservices\koerber-microservices\inventory-service\src\main\java\com\koerber\inventory\controller\InventoryController.java
+C:\Users\PG221QT\Downloads\microservices\koerber-microservices\inventory-service\src\main\java\com\koerber\inventory\dto\UpdateInventoryRequest.java
+C:\Users\PG221QT\Downloads\microservices\koerber-microservices\inventory-service\src\main\java\com\koerber\inventory\factory\InventoryHandler.java
+C:\Users\PG221QT\Downloads\microservices\koerber-microservices\inventory-service\src\main\java\com\koerber\inventory\model\InventoryBatch.java
+C:\Users\PG221QT\Downloads\microservices\koerber-microservices\inventory-service\src\main\java\com\koerber\inventory\dto\ErrorDto.java
+C:\Users\PG221QT\Downloads\microservices\koerber-microservices\inventory-service\src\main\java\com\koerber\inventory\InventoryServiceApplication.java
+C:\Users\PG221QT\Downloads\microservices\koerber-microservices\inventory-service\src\main\java\com\koerber\inventory\config\OpenApiConfig.java
