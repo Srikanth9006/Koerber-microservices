@@ -90,7 +90,7 @@ koerber-microservices/
 
 ```bash
 # Clone the repository
-git clone <repo-url>
+git clone https://github.com/Srikanth9006/Koerber-microservices.git
 cd koerber-microservices
 
 # Terminal 1 — Start Inventory Service (port 8081)
